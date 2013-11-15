@@ -1,0 +1,7 @@
+3                  
+7                  
+bread  3 + rolls   
+rolls  2 + bread   
+squash 3 - meat    
+meat   5           
+lima_beans 1 - meat
